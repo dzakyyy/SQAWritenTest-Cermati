@@ -1,0 +1,2 @@
+# SQAWritenTest-Cermati
+Automation Test
