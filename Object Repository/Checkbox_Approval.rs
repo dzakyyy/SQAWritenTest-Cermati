@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Checkbox_Approval</name>
+   <tag></tag>
+   <elementGuidId>3307fcbf-288b-4bf9-8462-4f1764cc46a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;terms-and-condition&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#terms-and-condition</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
