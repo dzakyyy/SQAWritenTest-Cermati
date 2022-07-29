@@ -39,9 +39,5 @@ WebUI.setText(findTestObject('Input_KabupatenKota'), 'jakarta')
 
 WebUI.click(findTestObject('Pilih_KabupatenKota'))
 
-WebUI.check(findTestObject('Checkbox_Approval'))
-
-WebUI.check(findTestObject('Checkbox_Approval'))
-
 WebUI.click(findTestObject('Button_Daftar'))
 
