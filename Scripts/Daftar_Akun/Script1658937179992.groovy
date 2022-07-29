@@ -39,5 +39,5 @@ WebUI.setText(findTestObject('Input_KabupatenKota'), 'jakarta')
 
 WebUI.click(findTestObject('Pilih_KabupatenKota'))
 
-WebUI.click(findTestObject('Button_Daftar'))
+WebUI.click(findTestObject('Btn_Daftar'))
 
